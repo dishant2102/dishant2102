@@ -1,32 +1,34 @@
 # Hi there, I'm Dishant Patel! 👋
 
-I'm a passionate software developer, enthusiastic about building innovative applications and exploring new technologies. Welcome to my GitHub profile! 🚀
+I'm a passionate software developer, dedicated to crafting clean code and building user-centric applications. Welcome to my GitHub profile! 🚀
 
-🔭 **Currently Working On:** Developing a mobile app for tracking fitness goals.
+🌟 **About Me:**
+- 💻 I'm experienced in frontend technologies like JavaScript, React, and React Native, along with backend technologies such as Node.js, PHP, and Laravel.
+- 📚 I love learning about new technologies and expanding my skill set to stay up-to-date with the latest trends in software development.
+- 🏔️ Besides coding, I'm an avid hiker and adventurer who enjoys exploring the great outdoors.
 
-🌱 **Currently Learning:** Exploring machine learning algorithms and diving deeper into React Native.
+🔭 **Currently Working On:** Developing a full-stack web application for simplifying task management using React, Node.js, and MongoDB.
 
-👯 **Looking to Collaborate On:** Open-source projects related to data visualization and web development.
+🌱 **Currently Learning:** Exploring machine learning algorithms and diving deeper into system design principles to build scalable applications.
 
-🤔 **Looking for Help With:** Improving my understanding of backend development and system design principles.
+👯 **Looking to Collaborate On:** Open-source projects related to web development, data visualization, or anything innovative and challenging!
 
-💬 **Ask Me About:** JavaScript, React, Python, PHP, Laravel, and anything related to software development!
+💬 **Ask Me About:** JavaScript, React, Node.js, PHP, Laravel, software design patterns, and tech-related hiking experiences!
 
 📫 **How to Reach Me:** Feel free to connect with me on [LinkedIn](Your LinkedIn Profile Link) or [Twitter](Your Twitter Profile Link).
 
 😄 **Pronouns:** He/Him
 
-⚡ **Fun Fact:** I love hiking and have summited several mountains over 10,000 feet!
+⚡ **Fun Fact:** I once coded an entire project while camping in the wilderness with just a solar-powered laptop!
 
 ### 🛠️ Languages and Tools:
 
 - JavaScript/TypeScript
 - React/React Native
-- Python
+- Node.js
 - PHP
 - Laravel
 - HTML/CSS
-- Node.js
 - MongoDB
 - Git/GitHub
 
