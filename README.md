@@ -1,4 +1,4 @@
-# Hi there, I'm Dishant Patel! 👋
+# Hi there, I'm Dishant Makwana! 👋
 
 I'm a passionate software developer, dedicated to crafting clean code and building user-centric applications. Welcome to my GitHub profile! 🚀
 
@@ -16,7 +16,7 @@ I'm a passionate software developer, dedicated to crafting clean code and buildi
 💬 **Ask Me About:** JavaScript, React, Node.js, PHP, Laravel, software design patterns, and tech-related hiking experiences!
 
 📫 **How to Reach Me:** 
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [your.email@example.com](mailto:makwanadishant644@example.com)
 - Website: [Your Personal Website](https://www.yourwebsite.com)
 - LinkedIn: [Your LinkedIn Profile Link](Your LinkedIn Profile Link)
 - Twitter: [Your Twitter Profile Link](Your Twitter Profile Link)
