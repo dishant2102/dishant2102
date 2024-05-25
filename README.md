@@ -39,8 +39,3 @@ I'm a passionate software developer, dedicated to crafting clean code and buildi
 ### 📈 GitHub Stats:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dishant2102&show_icons=true&theme=radical)
-
-### 🌐 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](Your LinkedIn Profile Link)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](Your Twitter Profile Link)
